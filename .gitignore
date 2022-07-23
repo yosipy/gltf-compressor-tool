@@ -4,3 +4,4 @@ input/*
 !input/.keep
 output/*
 !output/.keep
+work
