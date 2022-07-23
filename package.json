@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yosipy/gltf-compressor-tool/issues"
   },
-  "homepage": "https://github.com/yosipy/gltf-compressor-tool#readme"
+  "homepage": "https://github.com/yosipy/gltf-compressor-tool#readme",
+  "dependencies": {
+    "gltf-pipeline": "^3.0.5"
+  }
 }
