@@ -1,0 +1,7 @@
+node_modules
+
+input/*
+!input/.keep
+output/*
+!output/.keep
+work
